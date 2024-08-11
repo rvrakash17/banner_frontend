@@ -1,0 +1,36 @@
+.banner {
+  position: relative;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #ffeb3b;
+  color: #000;
+  padding: 10px;
+  text-align: center;
+  border-bottom: 2px solid #fbc02d;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.banner p {
+  margin: 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.banner a {
+  display: inline-block;
+  margin-top: 5px;
+  text-decoration: none;
+  color: #007bff;
+  font-weight: bold;
+}
+
+.banner a:hover {
+  text-decoration: underline;
+}
+
+.timer {
+  margin-top: 10px;
+  font-size: 1.5em;
+  font-weight: bold;
+}
